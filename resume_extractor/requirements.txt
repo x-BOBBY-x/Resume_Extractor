@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+pdfplumber
+spacy
+pandas
+mysql-connector-python
+matplotlib
+altair==4.2.2
